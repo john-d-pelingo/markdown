@@ -113,3 +113,5 @@ I bet you’re still using Bootstrap too…
 <div id="bryan"></div>
 
 - [React Component Composition](./react-component-composition.md)
+
+- [Nicu linku](https://google.com)
